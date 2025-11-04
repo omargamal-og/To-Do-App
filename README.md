@@ -38,12 +38,13 @@ All data is saved automatically in the **browser’s localStorage**, so your tas
 
 ## 📂 Project Structure
 To-Do-App/
+```
 │
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
-
+```
 ---
 
 ## 💡 Future Improvements
