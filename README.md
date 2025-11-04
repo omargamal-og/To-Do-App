@@ -33,3 +33,13 @@ All data is saved automatically in the **browser’s localStorage**, so your tas
 1. **Clone this repository:**
    ```bash
    git clone https://github.com/omargamal-og/To-Do-App.git
+
+---
+
+## 📂 Project Structure
+To-Do-App/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
